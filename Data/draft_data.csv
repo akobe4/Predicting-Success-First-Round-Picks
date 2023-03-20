@@ -1,0 +1,303 @@
+,draft_year,pick_no,team,player_name
+0,2009,1,New York Islanders,John Tavares
+1,2009,2,Tampa Bay Lightning,Victor Hedman
+2,2009,3,Colorado Avalanche,Matt Duchene
+3,2009,4,Atlanta Thrashers,Evander Kane
+4,2009,5,Los Angeles Kings,Brayden Schenn
+5,2009,6,Phoenix Coyotes,Oliver Ekman-Larsson
+6,2009,7,Toronto Maple Leafs,Nazem Kadri
+7,2009,8,Dallas Stars,Scott Glennie
+8,2009,9,Ottawa Senators,Jared Cowen
+9,2009,10,Edmonton Oilers,Magnus Paajarvi
+10,2009,11,Nashville Predators,Ryan Ellis
+11,2009,12,New York Islanders,Calvin De Haan
+12,2009,13,Buffalo Sabres,Zack Kassian
+13,2009,14,Florida Panthers,Dmitry Kulikov
+14,2009,15,Anaheim Ducks,Peter Holland
+15,2009,16,Minnesota Wild,Nick Leddy
+16,2009,17,St. Louis Blues,David Rundblad
+17,2009,18,Montréal Canadiens,Louis Leblanc
+18,2009,19,New York Rangers,Chris Kreider
+19,2009,20,New Jersey Devils,Jacob Josefson
+20,2009,21,Columbus Blue Jackets,John Moore
+21,2009,22,Vancouver Canucks,Jordan Schroeder
+22,2009,23,Calgary Flames,Tim Erixon
+23,2009,24,Washington Capitals,Marcus Johansson
+24,2009,25,Boston Bruins,Jordan Caron
+25,2009,26,Anaheim Ducks,Kyle Palmieri
+26,2009,27,Carolina Hurricanes,Philippe Paradis
+27,2009,28,Chicago Blackhawks,Dylan Olsen
+28,2009,29,Tampa Bay Lightning,Carter Ashton
+29,2009,30,Pittsburgh Penguins,Simon Despres
+30,2010,1,Edmonton Oilers,Taylor Hall
+31,2010,2,Boston Bruins,Tyler Seguin
+32,2010,3,Florida Panthers,Erik Gudbranson
+33,2010,4,Columbus Blue Jackets,Ryan Johansen
+34,2010,5,New York Islanders,Nino Niederreiter
+35,2010,6,Tampa Bay Lightning,Brett Connolly
+36,2010,7,Carolina Hurricanes,Jeff Skinner
+37,2010,8,Atlanta Thrashers,Alexander Burmistrov
+38,2010,9,Minnesota Wild,Mikael Granlund
+39,2010,10,New York Rangers,Dylan Mcilrath
+40,2010,11,Dallas Stars,Jack Campbell
+41,2010,12,Anaheim Ducks,Cam Fowler
+42,2010,13,Phoenix Coyotes,Brandon Gormley
+43,2010,14,St. Louis Blues,Jaden Schwartz
+44,2010,15,Los Angeles Kings,Derek Forbort
+45,2010,16,St. Louis Blues,Vladimir Tarasenko
+46,2010,17,Colorado Avalanche,Joey Hishon
+47,2010,18,Nashville Predators,Austin Watson
+48,2010,19,Florida Panthers,Nick Bjugstad
+49,2010,20,Pittsburgh Penguins,Beau Bennett
+50,2010,21,Detroit Red Wings,Riley Sheahan
+51,2010,22,Montréal Canadiens,Jarred Tinordi
+52,2010,23,Buffalo Sabres,Mark Pysyk
+53,2010,24,Chicago Blackhawks,Kevin Hayes
+54,2010,25,Florida Panthers,Quinton Howden
+55,2010,26,Washington Capitals,Evgeny Kuznetsov
+56,2010,27,Phoenix Coyotes,Mark Visentin
+57,2010,28,San Jose Sharks,Charlie Coyle
+58,2010,29,Anaheim Ducks,Emerson Etem
+59,2010,30,New York Islanders,Brock Nelson
+60,2011,1,Edmonton Oilers,Ryan Nugent-Hopkins
+61,2011,2,Colorado Avalanche,Gabriel Landeskog
+62,2011,3,Florida Panthers,Jonathan Huberdeau
+63,2011,4,New Jersey Devils,Adam Larsson
+64,2011,5,New York Islanders,Ryan Strome
+65,2011,6,Ottawa Senators,Mika Zibanejad
+66,2011,7,Winnipeg Jets,Mark Scheifele
+67,2011,8,Philadelphia Flyers,Sean Couturier
+68,2011,9,Boston Bruins,Dougie Hamilton
+69,2011,10,Minnesota Wild,Jonas Brodin
+70,2011,11,Colorado Avalanche,Duncan Siemens
+71,2011,12,Carolina Hurricanes,Ryan Murphy
+72,2011,13,Calgary Flames,Sven Baertschi
+73,2011,14,Dallas Stars,Jamie Oleksiak
+74,2011,15,New York Rangers,J.t. Miller
+75,2011,16,Buffalo Sabres,Joel Armia
+76,2011,17,Montréal Canadiens,Nathan Beaulieu
+77,2011,18,Chicago Blackhawks,Mark Mcneill
+78,2011,19,Edmonton Oilers,Oscar Klefbom
+79,2011,20,Phoenix Coyotes,Connor Murphy
+80,2011,21,Ottawa Senators,Stefan Noesen
+81,2011,22,Toronto Maple Leafs,Tyler Biggs
+82,2011,23,Pittsburgh Penguins,Joe Morrow
+83,2011,24,Ottawa Senators,Matt Puempel
+84,2011,25,Toronto Maple Leafs,Stuart Percy
+85,2011,26,Chicago Blackhawks,Phillip Danault
+86,2011,27,Tampa Bay Lightning,Vladislav Namestnikov
+87,2011,28,Minnesota Wild,Zack Phillips
+88,2011,29,Vancouver Canucks,Nicklas Jensen
+89,2011,30,Anaheim Ducks,Rickard Rakell
+90,2012,1,Edmonton Oilers,Nail Yakupov
+91,2012,2,Columbus Blue Jackets,Ryan Murray
+92,2012,3,Montréal Canadiens,Alex Galchenyuk
+93,2012,4,New York Islanders,Griffin Reinhart
+94,2012,5,Toronto Maple Leafs,Morgan Rielly
+95,2012,6,Anaheim Ducks,Hampus Lindholm
+96,2012,7,Minnesota Wild,Matt Dumba
+97,2012,8,Pittsburgh Penguins,Derrick Pouliot
+98,2012,9,Winnipeg Jets,Jacob Trouba
+99,2012,10,Tampa Bay Lightning,Slater Koekkoek
+100,2012,11,Washington Capitals,Filip Forsberg
+101,2012,12,Buffalo Sabres,Mikhail Grigorenko
+102,2012,13,Dallas Stars,Radek Faksa
+103,2012,14,Buffalo Sabres,Zemgus Girgensons
+104,2012,15,Ottawa Senators,Cody Ceci
+105,2012,16,Washington Capitals,Tom Wilson
+106,2012,17,San Jose Sharks,Tomas Hertl
+107,2012,18,Chicago Blackhawks,Teuvo Teravainen
+108,2012,19,Tampa Bay Lightning,Andrei Vasilevskiy
+109,2012,20,Philadelphia Flyers,Scott Laughton
+110,2012,21,Calgary Flames,Mark Jankowski
+111,2012,22,Pittsburgh Penguins,Olli Maatta
+112,2012,23,Florida Panthers,Mike Matheson
+113,2012,24,Boston Bruins,Malcolm Subban
+114,2012,25,St. Louis Blues,Jordan Schmaltz
+115,2012,26,Vancouver Canucks,Brendan Gaunce
+116,2012,27,Phoenix Coyotes,Henrik Samuelsson
+117,2012,28,New York Rangers,Brady Skjei
+118,2012,29,New Jersey Devils,Stefan Matteau
+119,2012,30,Los Angeles Kings,Tanner Pearson
+120,2013,1,Colorado Avalanche,Nathan Mackinnon
+121,2013,2,Florida Panthers,Aleksander Barkov
+122,2013,3,Tampa Bay Lightning,Jonathan Drouin
+123,2013,4,Nashville Predators,Seth Jones
+124,2013,5,Carolina Hurricanes,Elias Lindholm
+125,2013,6,Calgary Flames,Sean Monahan
+126,2013,7,Edmonton Oilers,Darnell Nurse
+127,2013,8,Buffalo Sabres,Rasmus Ristolainen
+128,2013,9,Vancouver Canucks,Bo Horvat
+129,2013,10,Dallas Stars,Valeri Nichushkin
+130,2013,11,Philadelphia Flyers,Samuel Morin
+131,2013,12,Phoenix Coyotes,Max Domi
+132,2013,13,Winnipeg Jets,Josh Morrissey
+133,2013,14,Columbus Blue Jackets,Alex Wennberg
+134,2013,15,New York Islanders,Ryan Pulock
+135,2013,16,Buffalo Sabres,Nikita Zadorov
+136,2013,17,Ottawa Senators,Curtis Lazar
+137,2013,18,San Jose Sharks,Mirco Mueller
+138,2013,19,Columbus Blue Jackets,Kerby Rychel
+139,2013,20,Detroit Red Wings,Anthony Mantha
+140,2013,21,Toronto Maple Leafs,Frederik Gauthier
+141,2013,22,Calgary Flames,Emile Poirier
+142,2013,23,Washington Capitals,Andre Burakovsky
+143,2013,24,Vancouver Canucks,Hunter Shinkaruk
+144,2013,25,Montréal Canadiens,Michael Mccarron
+145,2013,26,Anaheim Ducks,Shea Theodore
+146,2013,27,Columbus Blue Jackets,Marko Dano
+147,2013,28,Calgary Flames,Morgan Klimchuk
+148,2013,29,Dallas Stars,Jason Dickinson
+149,2013,30,Chicago Blackhawks,Ryan Hartman
+150,2014,1,Florida Panthers,Aaron Ekblad
+151,2014,2,Buffalo Sabres,Sam Reinhart
+152,2014,3,Edmonton Oilers,Leon Draisaitl
+153,2014,4,Calgary Flames,Sam Bennett
+154,2014,5,New York Islanders,Michael Dal Colle
+155,2014,6,Vancouver Canucks,Jake Virtanen
+156,2014,7,Carolina Hurricanes,Haydn Fleury
+157,2014,8,Toronto Maple Leafs,William Nylander
+158,2014,9,Winnipeg Jets,Nikolaj Ehlers
+159,2014,10,Anaheim Ducks,Nick Ritchie
+160,2014,11,Nashville Predators,Kevin Fiala
+161,2014,12,Arizona Coyotes,Brendan Perlini
+162,2014,13,Washington Capitals,Jakub Vrana
+163,2014,14,Dallas Stars,Julius Honka
+164,2014,15,Detroit Red Wings,Dylan Larkin
+165,2014,16,Columbus Blue Jackets,Sonny Milano
+166,2014,17,Philadelphia Flyers,Travis Sanheim
+167,2014,18,Minnesota Wild,Alex Tuch
+168,2014,19,Tampa Bay Lightning,Tony Deangelo
+169,2014,20,Chicago Blackhawks,Nick Schmaltz
+170,2014,21,St. Louis Blues,Robby Fabbri
+171,2014,22,Pittsburgh Penguins,Kasperi Kapanen
+172,2014,23,Colorado Avalanche,Conner Bleackley
+173,2014,24,Vancouver Canucks,Jared Mccann
+174,2014,25,Boston Bruins,David Pastrnak
+175,2014,26,Montréal Canadiens,Nikita Scherbak
+176,2014,27,San Jose Sharks,Nikolay Goldobin
+177,2014,28,New York Islanders,Joshua Ho-Sang
+178,2014,29,Los Angeles Kings,Adrian Kempe
+179,2014,30,New Jersey Devils,John Quenneville
+180,2015,1,Edmonton Oilers,Connor Mcdavid
+181,2015,2,Buffalo Sabres,Jack Eichel
+182,2015,3,Arizona Coyotes,Dylan Strome
+183,2015,4,Toronto Maple Leafs,Mitchell Marner
+184,2015,5,Carolina Hurricanes,Noah Hanifin
+185,2015,6,New Jersey Devils,Pavel Zacha
+186,2015,7,Philadelphia Flyers,Ivan Provorov
+187,2015,8,Columbus Blue Jackets,Zach Werenski
+188,2015,9,San Jose Sharks,Timo Meier
+189,2015,10,Colorado Avalanche,Mikko Rantanen
+190,2015,11,Florida Panthers,Lawson Crouse
+191,2015,12,Dallas Stars,Denis Gurianov
+192,2015,13,Boston Bruins,Jakub Zboril
+193,2015,14,Boston Bruins,Jake Debrusk
+194,2015,15,Boston Bruins,Zach Senyshyn
+195,2015,16,New York Islanders,Mathew Barzal
+196,2015,17,Winnipeg Jets,Kyle Connor
+197,2015,18,Ottawa Senators,Thomas Chabot
+198,2015,19,Detroit Red Wings,Evgeny Svechnikov
+199,2015,20,Minnesota Wild,Joel Eriksson Ek
+200,2015,21,Ottawa Senators,Colin White
+201,2015,22,Washington Capitals,Ilya Samsonov
+202,2015,23,Vancouver Canucks,Brock Boeser
+203,2015,24,Philadelphia Flyers,Travis Konecny
+204,2015,25,Winnipeg Jets,Jack Roslovic
+205,2015,26,Montréal Canadiens,Noah Juulsen
+206,2015,27,Anaheim Ducks,Jacob Larsson
+207,2015,28,New York Islanders,Anthony Beauvillier
+208,2015,29,Columbus Blue Jackets,Gabriel Carlsson
+209,2015,30,Arizona Coyotes,Nick Merkley
+210,2016,1,Toronto Maple Leafs,Auston Matthews
+211,2016,2,Winnipeg Jets,Patrik Laine
+212,2016,3,Columbus Blue Jackets,Pierre-Luc Dubois
+213,2016,4,Edmonton Oilers,Jesse Puljujarvi
+214,2016,5,Vancouver Canucks,Olli Juolevi
+215,2016,6,Calgary Flames,Matthew Tkachuk
+216,2016,7,Arizona Coyotes,Clayton Keller
+217,2016,8,Buffalo Sabres,Alex Nylander
+218,2016,9,Montréal Canadiens,Mikhail Sergachev
+219,2016,10,Colorado Avalanche,Tyson Jost
+220,2016,11,Ottawa Senators,Logan Brown
+221,2016,12,New Jersey Devils,Michael Mcleod
+222,2016,13,Carolina Hurricanes,Jake Bean
+223,2016,14,Boston Bruins,Charlie Mcavoy
+224,2016,15,Minnesota Wild,Luke Kunin
+225,2016,16,Arizona Coyotes,Jakob Chychrun
+226,2016,17,Nashville Predators,Dante Fabbro
+227,2016,18,Winnipeg Jets,Logan Stanley
+228,2016,19,New York Islanders,Kieffer Bellows
+229,2016,20,Detroit Red Wings,Dennis Cholowski
+230,2016,21,Carolina Hurricanes,Julien Gauthier
+231,2016,22,Philadelphia Flyers,German Rubtsov
+232,2016,23,Florida Panthers,Henrik Borgstrom
+233,2016,24,Anaheim Ducks,Max Jones
+234,2016,25,Dallas Stars,Riley Tufte
+235,2016,26,St. Louis Blues,Tage Thompson
+236,2016,27,Tampa Bay Lightning,Brett Howden
+237,2016,28,Washington Capitals,Lucas Johansen
+238,2016,29,Boston Bruins,Trent Frederic
+239,2016,30,Anaheim Ducks,Sam Steel
+240,2017,1,New Jersey Devils,Nico Hischier
+241,2017,2,Philadelphia Flyers,Nolan Patrick
+242,2017,3,Dallas Stars,Miro Heiskanen
+243,2017,4,Colorado Avalanche,Cale Makar
+244,2017,5,Vancouver Canucks,Elias Pettersson
+245,2017,6,Vegas Golden Knights,Cody Glass
+246,2017,7,New York Rangers,Lias Andersson
+247,2017,8,Buffalo Sabres,Casey Mittelstadt
+248,2017,9,Detroit Red Wings,Michael Rasmussen
+249,2017,10,Florida Panthers,Owen Tippett
+250,2017,11,Los Angeles Kings,Gabriel Vilardi
+251,2017,12,Carolina Hurricanes,Martin Necas
+252,2017,13,Vegas Golden Knights,Nick Suzuki
+253,2017,14,Tampa Bay Lightning,Cal Foote
+254,2017,15,Vegas Golden Knights,Erik Brannstrom
+255,2017,16,Calgary Flames,Juuso Valimaki
+256,2017,17,Toronto Maple Leafs,Timothy Liljegren
+257,2017,18,Boston Bruins,Urho Vaakanainen
+258,2017,19,San Jose Sharks,Josh Norris
+259,2017,20,St. Louis Blues,Robert Thomas
+260,2017,21,New York Rangers,Filip Chytil
+261,2017,22,Edmonton Oilers,Kailer Yamamoto
+262,2017,23,Arizona Coyotes,Pierre-Olivier Joseph
+263,2017,24,Winnipeg Jets,Kristian Vesalainen
+264,2017,25,Montréal Canadiens,Ryan Poehling
+265,2017,26,Dallas Stars,Jake Oettinger
+266,2017,27,Philadelphia Flyers,Morgan Frost
+267,2017,28,Ottawa Senators,Shane Bowers
+268,2017,29,Chicago Blackhawks,Henri Jokiharju
+269,2017,30,Nashville Predators,Eeli Tolvanen
+270,2017,31,St. Louis Blues,Klim Kostin
+271,2018,1,Buffalo Sabres,Rasmus Dahlin
+272,2018,2,Carolina Hurricanes,Andrei Svechnikov
+273,2018,3,Montréal Canadiens,Jesperi Kotkaniemi
+274,2018,4,Ottawa Senators,Brady Tkachuk
+275,2018,5,Arizona Coyotes,Barrett Hayton
+276,2018,6,Detroit Red Wings,Filip Zadina
+277,2018,7,Vancouver Canucks,Quinn Hughes
+278,2018,8,Chicago Blackhawks,Adam Boqvist
+279,2018,9,New York Rangers,Vitali Kravtsov
+280,2018,10,Edmonton Oilers,Evan Bouchard
+281,2018,11,New York Islanders,Oliver Wahlstrom
+282,2018,12,New York Islanders,Noah Dobson
+283,2018,13,Dallas Stars,Ty Dellandrea
+284,2018,14,Philadelphia Flyers,Joel Farabee
+285,2018,15,Florida Panthers,Grigori Denisenko
+286,2018,16,Colorado Avalanche,Martin Kaut
+287,2018,17,New Jersey Devils,Ty Smith
+288,2018,18,Columbus Blue Jackets,Liam Foudy
+289,2018,19,Philadelphia Flyers,Jay O'Brien
+290,2018,20,Los Angeles Kings,Rasmus Kupari
+291,2018,21,San Jose Sharks,Ryan Merkley
+292,2018,22,New York Rangers,K'Andre Miller
+293,2018,23,Anaheim Ducks,Isac Lundestrom
+294,2018,24,Minnesota Wild,Filip Johansson
+295,2018,25,St. Louis Blues,Dominik Bokk
+296,2018,26,Ottawa Senators,Jacob Bernard-Docker
+297,2018,27,Chicago Blackhawks,Nicolas Beaudin
+298,2018,28,New York Rangers,Nils Lundkvist
+299,2018,29,Toronto Maple Leafs,Rasmus Sandin
+300,2018,30,Detroit Red Wings,Joe Veleno
+301,2018,31,Washington Capitals,Alexander Alexeyev
