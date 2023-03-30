@@ -1,0 +1,4 @@
+http://ec2-44-202-123-38.compute-1.amazonaws.com:5555/predict
+
+
+[{"prospect_pim": 54, "prospect_pm": 10,"weight": 209, "shoots": "L","prospect_category": "North American Skater","birth_month": 9,"height_cm": 185.42,"eq_g": 21.33,"eq_a": 19.91,"oGVT": 0.37, "dGVT": 0.06,"overall_GVT": 0.43,"position_2": "F"}, {"prospect_pim": 62, "prospect_pm": 39,"weight": 185, "shoots": "R","prospect_category": "North American Skater","birth_month": 7,"height_cm": 177.8,"eq_g": 24.29,"eq_a": 24.64,"oGVT": 2.15, "dGVT": 0.03,"overall_GVT": 2.18,"position_2": "F"}]
