@@ -29,3 +29,6 @@ Pickle Files
 - model18: accuracy score of 0.66, 5 features (R, European Skater, Jan birth month, oGVT, Feb birth month)
 - model20: accuracy score of 0.68, 6 features (R, European Skater, Jan birth month, oGVT, Feb birth month, F)
 - model21: accuracy score of 0.68, 5 features (R, European Skater, Jan birth month, oGVT, Feb birth month) ** model that was actually used 
+
+
+Many of the calculations in the "Translation Factors" Notebook came from the book Stat Shot by Rob Vollman. 
